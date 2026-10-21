@@ -22,6 +22,14 @@ for your Windows account only; no administrator rights are needed.
 from the App Store, macOS asks once: open it, then go to System Settings › Privacy & Security and click
 **Open Anyway**.
 
+## Android phone
+
+**[Get the phone app](https://github.com/kohirschmann/pdf-reader-finance/releases?q=Android&expanded=true)**
+(Android 8 or newer): open the link on the phone and, in the newest **PDF Reader Finance for Android** release,
+tap `PDF-Reader-Finance-<version>.apk`. The release's notes show the few taps to install it (Android asks once
+whether Chrome may install apps). To update, install the APK of a newer release the same way: your recent files
+and settings stay. In the app, **Settings › Check for updates** opens the list of releases.
+
 ## Updates
 
 In the app, **Help › Check for Updates…** looks here for a newer version and installs it. Your settings,
@@ -31,4 +39,5 @@ signature and recent files stay.
 
 PDF Reader Finance is free software under the [GNU Affero General Public License v3](LICENSE), because it uses
 MuPDF (© Artifex, AGPL-3.0) and Qt (LGPL-3.0). Every release includes its complete source code
-(`PDF-Reader-Finance-<version>-source.zip`). It is not affiliated with or endorsed by Adobe.
+(`PDF-Reader-Finance-<version>-source.zip`, or `…-android-source.zip` for the phone app). It is not affiliated
+with or endorsed by Adobe.
